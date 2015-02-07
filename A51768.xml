@@ -443,12 +443,17 @@ not Seventy years old, when he had finished this his <hi>Astronomical Poem.</hi>
             <p>But neither of these <hi>Astroscopes</hi> are the same as <hi>Schickardus</hi> treats of; His is supposed to be the Surface of a <hi>Cone;</hi> In the Circle of the <hi>Base</hi> whereof conceive a Thread to represent a <hi>Diameter;</hi> a Knot in it the <hi>Center,</hi> a Perpendi<g ref="char:EOLhyphen"/>cular from that Knot to the Side of the <hi>Conick Surface</hi> the <hi>Radius,</hi> and a Line passing through the <hi>Vertex of the Cone</hi> (which represents the <hi>Pole Point</hi>) and the Foot of that Perpendicular to be a <hi>Tangent Line</hi> each way, in which, the Stars are to be placed according to their Distances from the <hi>Pole,</hi> counted from the <hi>Pole Point,</hi> in respect of the Graduation of the said <hi>Tangent;</hi> the Arches of right <hi>Ascension</hi> being measured by the <hi>Periphery</hi> of the Circle in the <hi>Base</hi> of the <hi>Cone,</hi> and this Surface is to be conceived to be directed to the <hi>Pole,</hi> and that the Eye is at the Knot or <hi>Center</hi> of the <hi>Base</hi> of the <hi>Cone,</hi> beholding two known Stars shining through their Proper Holes, and at the same time it shall likewise behold the rest shining through their respective Holes; The Rotation of this Figure about an <hi>Axis</hi> serving as a Nocturnal to give the Hours of the Night.</p>
             <p>Other <hi>Astroscopes</hi> there are; As one, that being rectified and set to the Hour of the Night, the Sight through two <hi>Pinnacides</hi> shall be directed to that Star to which the Instrument is rectified. Of All which to treat, is not our present Design, and 'therefore shall refer the Reader to the <hi>Authors</hi> and <hi>Composers</hi> of such kind of <hi>Projections</hi> or <hi>Astroscopes.</hi>
             </p>
-            <figure>
-               <figDesc>map of northern constellations</figDesc>
-            </figure>
-            <figure>
-               <figDesc>map of southern constellations</figDesc>
-            </figure>
+            <p>
+               <pb facs="tcp:61767:10"/>
+               <pb facs="tcp:61767:11"/>
+               <figure>
+                  <figDesc>map of northern constellations</figDesc>
+               </figure>
+               <pb facs="tcp:61767:12"/>
+               <figure>
+                  <figDesc>map of southern constellations</figDesc>
+               </figure>
+            </p>
          </div>
       </front>
       <body>
@@ -9354,10 +9359,13 @@ likewise it resembles, as supposing fewer Conversions, and rejecting the Solidit
                <p>Thirdly, Because he conceived <hi>Saturn</hi> and <hi>Iupiter,</hi> being more slow and ponderous Planets, to have a greater Affinity to the slow Sphere of the Fixed Stars; and to respect (as do the Fixed Stars) the Earth rather than the Sun as the Centre of their Motions.</p>
                <p>Fourthly, Seeing that <hi>Mars, Venus,</hi> and <hi>Mercury</hi> in their Courses or Circumgyrations enter into the Solar Heaven, he conceived it more probable that those Planets should have the Sun for the Centre of their Motions, and not to have any Distinct Aethereal Regions assigned them, but to move All in one common Region. But <hi>Saturn</hi> and <hi>Iupiter</hi> to have their Distinct Dominions and Regions allotted them.</p>
                <p>Fifthly, Because it seems very probable that among the Planets there should be one as it were a Mean or Middle, between the Superiour and the Inferiour, and which in his Motions should have some things common with <hi>Saturn</hi> and <hi>Iupiter,</hi> and some with <hi>Venus</hi> and <hi>Mercury;</hi> to wit <hi>Mars.</hi> But see the Scheme it self.</p>
-               <figure>
-                  <head>SYSTEMA SEMITYCHONICV<g ref="char:cmbAbbrStroke">̄</g> RICCIOLI.</head>
-                  <head>6</head>
-               </figure>
+               <p>
+                  <pb n="136" facs="tcp:61767:115"/>
+                  <figure>
+                     <head>SYSTEMA SEMITYCHONICV<g ref="char:cmbAbbrStroke">̄</g> RICCIOLI.</head>
+                     <head>6</head>
+                  </figure>
+               </p>
                <p>In which is to be noted that the Intervals of the several Orbs are so ordered, that the lowest of the Concave Heaven of <hi>Saturn,</hi> does not touch the upper part of the <hi>Convex</hi> of <hi>Iupiter,</hi> or the lowest of <hi>Iupiters,</hi> the uppermost of <hi>Mars,</hi> as in the <hi>P<gap reason="illegible" resp="#APEX" extent="1+ letters">
                         <desc>•…</desc>
                      </gap>olemaick,</hi> but there is a voyd Interval be<g ref="char:EOLhyphen"/>tween the Fixed Stars, and the uppermost <hi>Convex</hi> of <hi>Saturn</hi>'s Orb, of 9824 <hi>Semidiameters</hi> of the Earth, and between the <hi>Concave</hi> of <hi>Saturn</hi> and the <hi>Convex</hi> of <hi>Iupiter,</hi> an Interval of 10045 of the like <hi>Semidiameters,</hi> and between the <hi>Concave</hi> of <hi>Iupiter</hi> and <hi>Convex</hi> of <hi>Mars,</hi> an Interval of 5310 such <hi>Semidiameters,</hi> and between the <hi>Concave</hi> of <hi>Venus</hi> and <hi>Convex</hi> of the <hi>Moon</hi>'s Orb 1850 <hi>Semidiameters.</hi> Besides, the Thickness of the whole Heaven of <hi>Saturn</hi> computed together with his <hi>Satellites</hi> is supposed 32454 <hi>Semidiameters,</hi> and that of <hi>Iupiter</hi> with his <hi>Satellites</hi> 21361 <hi>Semi<g ref="char:EOLhyphen"/>diameters;</hi> That of the <hi>Sun, Mars, Venus</hi> and <hi>Mercury;</hi> being but as one <hi>Heaven,</hi> is supposed to contain 19091 of the <hi>Earth's Semidiameters.</hi>
@@ -21994,313 +22002,316 @@ Platter, among these kind the chief is that which is called <hi>Rosa, sive Chrys
                      </row>
                   </table>
                </p>
-               <figure>
-                  <head>fig: G.</head>
-                  <p>
-                     <figure>
-                        <head>Cometae Discei seu Chrisei.</head>
-                        <p>
-                           <figure>
-                              <head>1. Solaris sive Rosa.</head>
-                           </figure>
-                        </p>
-                        <p>
-                           <figure>
-                              <head>2. Disciformis.</head>
-                           </figure>
-                        </p>
-                        <p>
-                           <figure>
-                              <head>3. Clypeiformis.</head>
-                           </figure>
-                        </p>
-                        <p>
-                           <figure>
-                              <head>4. Clypeus ardens.</head>
-                           </figure>
-                        </p>
-                     </figure>
-                  </p>
-                  <p>
-                     <figure>
-                        <head>Cometae Pithei</head>
-                        <p>
-                           <figure>
-                              <head>5. Doliiformis erectus.</head>
-                           </figure>
-                        </p>
-                        <p>
-                           <figure>
-                              <head>6. Doliiformis truncatus.</head>
-                           </figure>
-                        </p>
-                        <p>
-                           <figure>
-                              <head>7. Doliiformis caudatus.</head>
-                           </figure>
-                        </p>
-                     </figure>
-                  </p>
-                  <p>
-                     <figure>
-                        <head>Hippei sive Equini</head>
-                        <p>
-                           <figure>
-                              <head>8. Equinus barbatus.</head>
-                           </figure>
-                        </p>
-                        <p>
-                           <figure>
-                              <head>9. Equinus quadrangularis.</head>
-                           </figure>
-                        </p>
-                        <p>
-                           <figure>
-                              <head>10. Equinus Ellipticus.</head>
-                           </figure>
-                        </p>
-                     </figure>
-                  </p>
-                  <p>
-                     <figure>
-                        <head>Lampadiae</head>
-                        <p>
-                           <figure>
-                              <head>11. Lampadiformis.</head>
-                           </figure>
-                        </p>
-                        <p>
-                           <figure>
-                              <head>12. Lampadiformis.</head>
-                           </figure>
-                        </p>
-                        <p>
-                           <figure>
-                              <head>13. Lampadiformis.</head>
-                           </figure>
-                        </p>
-                        <p>
-                           <figure>
-                              <head>14. Hircus.</head>
-                           </figure>
-                        </p>
-                        <p>
-                           <figure>
-                              <head>15. Fusca nube circumdatus</head>
-                           </figure>
-                        </p>
-                        <p>
-                           <figure>
-                              <head>16. Barbatus.</head>
-                           </figure>
-                        </p>
-                     </figure>
-                  </p>
-                  <p>
-                     <pb facs="tcp:61767:161"/>
-                     <pb facs="tcp:61767:161"/>
-                     <figure>
-                        <head>fig. H.</head>
-                        <p>
-                           <figure>
-                              <head>Ceratiae seu Cometae Cornuti.</head>
-                              <p>
-                                 <figure>
-                                    <head>17  Corniformis Lunatus</head>
-                                 </figure>
-                              </p>
-                              <p>
-                                 <figure>
-                                    <head>18. Corniformis.</head>
-                                 </figure>
-                              </p>
-                              <p>
-                                 <figure>
-                                    <head>19. Cornutus biscuspidatus.</head>
-                                 </figure>
-                              </p>
-                              <p>
-                                 <figure>
-                                    <head>20. Curvatus Divaricatus.</head>
-                                 </figure>
-                              </p>
-                              <p>
-                                 <figure>
-                                    <head>21. Tubiformis.</head>
-                                 </figure>
-                              </p>
-                           </figure>
-                        </p>
-                        <p>
-                           <figure>
-                              <head>Acontiae.</head>
-                              <p>
-                                 <figure>
-                                    <head>22. Jaculiformis Lunatus.</head>
-                                 </figure>
-                              </p>
-                              <p>
-                                 <figure>
-                                    <head>23. Jaculi-formis Ellipticus.</head>
-                                 </figure>
-                              </p>
-                              <p>
-                                 <figure>
-                                    <head>24. Iaculi-formis rotundus.</head>
-                                 </figure>
-                              </p>
-                           </figure>
-                        </p>
-                     </figure>
-                  </p>
-                  <p>
-                     <pb facs="tcp:61767:162"/>
-                     <pb facs="tcp:61767:162"/>
-                     <figure>
-                        <head>fig. I.</head>
-                        <p>
-                           <figure>
-                              <head>Xiphiae.</head>
-                              <p>
-                                 <figure>
-                                    <head>25. Ensiformis 1.</head>
-                                 </figure>
-                              </p>
-                              <p>
-                                 <figure>
-                                    <head>26. Ensiformis. 2.</head>
-                                 </figure>
-                              </p>
-                              <p>
-                                 <figure>
-                                    <head>27. Ensiformis. 3.</head>
-                                 </figure>
-                              </p>
-                              <p>
-                                 <figure>
-                                    <head>28. Ensiformis incurvatus.</head>
-                                 </figure>
-                              </p>
-                           </figure>
-                        </p>
-                        <p>
-                           <figure>
-                              <head>Longites.</head>
-                              <p>
-                                 <figure>
-                                    <head>30. Hastiformis. 1.</head>
-                                 </figure>
-                              </p>
-                              <p>
-                                 <figure>
-                                    <head>29. Ensiformis. 4.</head>
-                                 </figure>
-                              </p>
-                              <p>
-                                 <figure>
-                                    <head>31. Hastiformis. 2.</head>
-                                 </figure>
-                              </p>
-                           </figure>
-                        </p>
-                     </figure>
-                  </p>
-                  <p>
-                     <pb facs="tcp:61767:163"/>
-                     <pb facs="tcp:61767:163"/>
-                     <figure>
-                        <head>fig K.</head>
-                        <head>Acontiae</head>
-                        <p>
-                           <figure>
-                              <head>32. Veru.</head>
-                           </figure>
-                        </p>
-                        <p>
-                           <figure>
-                              <head>33. Pertica bifurcata</head>
-                           </figure>
-                        </p>
-                        <p>
-                           <figure>
-                              <head>34. Cometa quadratus.</head>
-                           </figure>
-                        </p>
-                        <p>
-                           <figure>
-                              <head>35. Coniformis.</head>
-                           </figure>
-                        </p>
-                        <p>
-                           <figure>
-                              <head>36. Cometa Pyramidatus.</head>
-                           </figure>
-                        </p>
-                        <p>
-                           <figure>
-                              <head>37. Cometa Monstriferus. 1.</head>
-                           </figure>
-                        </p>
-                        <p>
-                           <figure>
-                              <head>38. Cometa Monstriferus. 2.</head>
-                           </figure>
-                        </p>
-                        <p>
-                           <figure>
-                              <head>39. Cometa Monstriferus. 3.</head>
-                           </figure>
-                        </p>
-                     </figure>
-                  </p>
-                  <p>
-                     <pb facs="tcp:61767:164"/>
-                     <pb facs="tcp:61767:164"/>
-                     <figure>
-                        <head>fig. L.</head>
-                        <p>
-                           <figure>
-                              <head>40. Cometa 1577. Die 17 Nov. à Tychone observ.</head>
-                           </figure>
-                        </p>
-                        <p>
-                           <figure>
-                              <head>41. Cometa 1577. Die 28 nov. et 3 dec. à Cornel. Gemma. observ.</head>
-                           </figure>
-                        </p>
-                        <p>
-                           <figure>
-                              <head>42. Cometa 1590.</head>
-                           </figure>
-                        </p>
-                        <p>
-                           <figure>
-                              <head>43. Cometa 1607.</head>
-                           </figure>
-                        </p>
-                        <p>
-                           <figure>
-                              <head>46. Cometa 1647.</head>
-                           </figure>
-                        </p>
-                        <p>
-                           <figure>
-                              <head>44. Cometa 1618 Die 1. Dec. à Cysato observ.</head>
-                           </figure>
-                        </p>
-                        <p>
-                           <figure>
-                              <head>45. Cometa 1618. Die 17. 18. et 20 Dec. observatus.</head>
-                           </figure>
-                        </p>
-                        <p>
-                           <figure>
-                              <head>47. Cometa 1652. ab Autore observ.</head>
-                           </figure>
-                        </p>
-                     </figure>
-                  </p>
-               </figure>
+               <p>
+                  <pb facs="tcp:61767:160"/>
+                  <figure>
+                     <head>fig: G.</head>
+                     <p>
+                        <figure>
+                           <head>Cometae Discei seu Chrisei.</head>
+                           <p>
+                              <figure>
+                                 <head>1. Solaris sive Rosa.</head>
+                              </figure>
+                           </p>
+                           <p>
+                              <figure>
+                                 <head>2. Disciformis.</head>
+                              </figure>
+                           </p>
+                           <p>
+                              <figure>
+                                 <head>3. Clypeiformis.</head>
+                              </figure>
+                           </p>
+                           <p>
+                              <figure>
+                                 <head>4. Clypeus ardens.</head>
+                              </figure>
+                           </p>
+                        </figure>
+                     </p>
+                     <p>
+                        <figure>
+                           <head>Cometae Pithei</head>
+                           <p>
+                              <figure>
+                                 <head>5. Doliiformis erectus.</head>
+                              </figure>
+                           </p>
+                           <p>
+                              <figure>
+                                 <head>6. Doliiformis truncatus.</head>
+                              </figure>
+                           </p>
+                           <p>
+                              <figure>
+                                 <head>7. Doliiformis caudatus.</head>
+                              </figure>
+                           </p>
+                        </figure>
+                     </p>
+                     <p>
+                        <figure>
+                           <head>Hippei sive Equini</head>
+                           <p>
+                              <figure>
+                                 <head>8. Equinus barbatus.</head>
+                              </figure>
+                           </p>
+                           <p>
+                              <figure>
+                                 <head>9. Equinus quadrangularis.</head>
+                              </figure>
+                           </p>
+                           <p>
+                              <figure>
+                                 <head>10. Equinus Ellipticus.</head>
+                              </figure>
+                           </p>
+                        </figure>
+                     </p>
+                     <p>
+                        <figure>
+                           <head>Lampadiae</head>
+                           <p>
+                              <figure>
+                                 <head>11. Lampadiformis.</head>
+                              </figure>
+                           </p>
+                           <p>
+                              <figure>
+                                 <head>12. Lampadiformis.</head>
+                              </figure>
+                           </p>
+                           <p>
+                              <figure>
+                                 <head>13. Lampadiformis.</head>
+                              </figure>
+                           </p>
+                           <p>
+                              <figure>
+                                 <head>14. Hircus.</head>
+                              </figure>
+                           </p>
+                           <p>
+                              <figure>
+                                 <head>15. Fusca nube circumdatus</head>
+                              </figure>
+                           </p>
+                           <p>
+                              <figure>
+                                 <head>16. Barbatus.</head>
+                              </figure>
+                           </p>
+                        </figure>
+                     </p>
+                     <p>
+                        <pb facs="tcp:61767:161"/>
+                        <pb facs="tcp:61767:161"/>
+                        <figure>
+                           <head>fig. H.</head>
+                           <p>
+                              <figure>
+                                 <head>Ceratiae seu Cometae Cornuti.</head>
+                                 <p>
+                                    <figure>
+                                       <head>17  Corniformis Lunatus</head>
+                                    </figure>
+                                 </p>
+                                 <p>
+                                    <figure>
+                                       <head>18. Corniformis.</head>
+                                    </figure>
+                                 </p>
+                                 <p>
+                                    <figure>
+                                       <head>19. Cornutus biscuspidatus.</head>
+                                    </figure>
+                                 </p>
+                                 <p>
+                                    <figure>
+                                       <head>20. Curvatus Divaricatus.</head>
+                                    </figure>
+                                 </p>
+                                 <p>
+                                    <figure>
+                                       <head>21. Tubiformis.</head>
+                                    </figure>
+                                 </p>
+                              </figure>
+                           </p>
+                           <p>
+                              <figure>
+                                 <head>Acontiae.</head>
+                                 <p>
+                                    <figure>
+                                       <head>22. Jaculiformis Lunatus.</head>
+                                    </figure>
+                                 </p>
+                                 <p>
+                                    <figure>
+                                       <head>23. Jaculi-formis Ellipticus.</head>
+                                    </figure>
+                                 </p>
+                                 <p>
+                                    <figure>
+                                       <head>24. Iaculi-formis rotundus.</head>
+                                    </figure>
+                                 </p>
+                              </figure>
+                           </p>
+                        </figure>
+                     </p>
+                     <p>
+                        <pb facs="tcp:61767:162"/>
+                        <pb facs="tcp:61767:162"/>
+                        <figure>
+                           <head>fig. I.</head>
+                           <p>
+                              <figure>
+                                 <head>Xiphiae.</head>
+                                 <p>
+                                    <figure>
+                                       <head>25. Ensiformis 1.</head>
+                                    </figure>
+                                 </p>
+                                 <p>
+                                    <figure>
+                                       <head>26. Ensiformis. 2.</head>
+                                    </figure>
+                                 </p>
+                                 <p>
+                                    <figure>
+                                       <head>27. Ensiformis. 3.</head>
+                                    </figure>
+                                 </p>
+                                 <p>
+                                    <figure>
+                                       <head>28. Ensiformis incurvatus.</head>
+                                    </figure>
+                                 </p>
+                              </figure>
+                           </p>
+                           <p>
+                              <figure>
+                                 <head>Longites.</head>
+                                 <p>
+                                    <figure>
+                                       <head>30. Hastiformis. 1.</head>
+                                    </figure>
+                                 </p>
+                                 <p>
+                                    <figure>
+                                       <head>29. Ensiformis. 4.</head>
+                                    </figure>
+                                 </p>
+                                 <p>
+                                    <figure>
+                                       <head>31. Hastiformis. 2.</head>
+                                    </figure>
+                                 </p>
+                              </figure>
+                           </p>
+                        </figure>
+                     </p>
+                     <p>
+                        <pb facs="tcp:61767:163"/>
+                        <pb facs="tcp:61767:163"/>
+                        <figure>
+                           <head>fig K.</head>
+                           <head>Acontiae</head>
+                           <p>
+                              <figure>
+                                 <head>32. Veru.</head>
+                              </figure>
+                           </p>
+                           <p>
+                              <figure>
+                                 <head>33. Pertica bifurcata</head>
+                              </figure>
+                           </p>
+                           <p>
+                              <figure>
+                                 <head>34. Cometa quadratus.</head>
+                              </figure>
+                           </p>
+                           <p>
+                              <figure>
+                                 <head>35. Coniformis.</head>
+                              </figure>
+                           </p>
+                           <p>
+                              <figure>
+                                 <head>36. Cometa Pyramidatus.</head>
+                              </figure>
+                           </p>
+                           <p>
+                              <figure>
+                                 <head>37. Cometa Monstriferus. 1.</head>
+                              </figure>
+                           </p>
+                           <p>
+                              <figure>
+                                 <head>38. Cometa Monstriferus. 2.</head>
+                              </figure>
+                           </p>
+                           <p>
+                              <figure>
+                                 <head>39. Cometa Monstriferus. 3.</head>
+                              </figure>
+                           </p>
+                        </figure>
+                     </p>
+                     <p>
+                        <pb facs="tcp:61767:164"/>
+                        <pb facs="tcp:61767:164"/>
+                        <figure>
+                           <head>fig. L.</head>
+                           <p>
+                              <figure>
+                                 <head>40. Cometa 1577. Die 17 Nov. à Tychone observ.</head>
+                              </figure>
+                           </p>
+                           <p>
+                              <figure>
+                                 <head>41. Cometa 1577. Die 28 nov. et 3 dec. à Cornel. Gemma. observ.</head>
+                              </figure>
+                           </p>
+                           <p>
+                              <figure>
+                                 <head>42. Cometa 1590.</head>
+                              </figure>
+                           </p>
+                           <p>
+                              <figure>
+                                 <head>43. Cometa 1607.</head>
+                              </figure>
+                           </p>
+                           <p>
+                              <figure>
+                                 <head>46. Cometa 1647.</head>
+                              </figure>
+                           </p>
+                           <p>
+                              <figure>
+                                 <head>44. Cometa 1618 Die 1. Dec. à Cysato observ.</head>
+                              </figure>
+                           </p>
+                           <p>
+                              <figure>
+                                 <head>45. Cometa 1618. Die 17. 18. et 20 Dec. observatus.</head>
+                              </figure>
+                           </p>
+                           <p>
+                              <figure>
+                                 <head>47. Cometa 1652. ab Autore observ.</head>
+                              </figure>
+                           </p>
+                        </figure>
+                     </p>
+                  </figure>
+               </p>
             </div>
          </div>
          <div type="addenda">
@@ -22342,12 +22353,15 @@ Platter, among these kind the chief is that which is called <hi>Rosa, sive Chrys
                <hi>Page</hi> 33. <hi>Line</hi> 39. <hi>Annot.</hi> after <hi>Ulugh Beighs</hi> Table, add, and in Doctor <hi>Pocock</hi>'s Notes <hi>in Specim. Histor. Arab. p.</hi> 132.</p>
             <p>
                <hi>Page</hi> 39. <hi>post Line</hi> 32. <hi>Annot.</hi> after derived, add. But it will be requisite further to explain this Place. The Antient Philosophers, especially those of <hi>Democritus</hi> his School, and most of the Mathematicians of those Times, asserted the <hi>Universe</hi> to be <hi>Infinite,</hi> and to be divided into two chief Portions; whereof the One they held to be the World, or rather Worlds, finite as to Bulk and Dimension, but infinite as to Number. The other Part or Portion, they extended be<g ref="char:EOLhyphen"/>yond the Worlds, which they fancied to be a <hi>Congeries</hi> of infinite Atoms. Out of which not on<g ref="char:EOLhyphen"/>ly the Worlds already made received their Sustenance, but new Ones also were produced. And therefore the Cosmical System according to them was, or may be imagined to be as followeth. First, the Place of the Planets and the Earth; then the Starry Firmament marked <hi>A. B. C. D.</hi> em<g ref="char:EOLhyphen"/>bracing within its Circumference the Planetary and Elementary System; beyond which, a cer<g ref="char:EOLhyphen"/>tain infinite <hi>Chaos</hi> of Atoms, in which this World of ours is supposed to float, and of which it was composed, and into which in time it is to be resolved. But see the Scheme as taken from <hi>Scheinerus</hi> his <hi>Disquisit. Mathemat. p.</hi> 17.</p>
-            <figure>
-               <head>SYSTEMA ANTIQVORVM.</head>
-               <p>Planetarium Terraeque locus</p>
-               <p>Coellum Stellatum.</p>
-               <p>CHAOS INFINITVM EX ATOMIS.</p>
-            </figure>
+            <p>
+               <pb n="214" facs="tcp:61767:166"/>
+               <figure>
+                  <head>SYSTEMA ANTIQVORVM.</head>
+                  <p>Planetarium Terraeque locus</p>
+                  <p>Coellum Stellatum.</p>
+                  <p>CHAOS INFINITVM EX ATOMIS.</p>
+               </figure>
+            </p>
             <p>
                <hi>Page</hi> 43. <hi>Line</hi> 29. <hi>Annot.</hi> after Antients, add. See <hi>Hypsicles</hi> his <gap reason="foreign">
                   <desc>〈 in non-Latin alphabet 〉</desc>
